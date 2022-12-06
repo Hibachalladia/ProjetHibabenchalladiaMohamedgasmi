@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "houssem",
+      "mail": "hous@mail.com",
+      "password": "123",
+      "passwordRepeat": "123",
+      "id": 1
+    },
+    {
+      "name": "ouma",
+      "mail": "ouma@gmail.com",
+      "password": "123",
+      "passwordRepeat": "123",
+      "id": 2
+    },
+    {
+      "name": "hiba",
+      "mail": "hiba@gmail.com",
+      "password": "hiba",
+      "passwordRepeat": "hiba",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "title": "Superman hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/hoodie2.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 2,
+      "title": "GameOver hoodie",
+      "prix": 75,
+      "image": "assets/hoodies/hoodie1.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 3,
+      "title": "Justice League hoodie mens",
+      "prix": 85,
+      "image": "assets/hoodies/hoodie4.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 4,
+      "title": "Wanderer travel hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/hoodie7.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 5,
+      "title": "hiba",
+      "prix": 55,
+      "image": "assets/hoodies/hoodie5.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 6,
+      "title": "Tom&Jerry's Hoodie",
+      "prix": 75,
+      "image": "assets/hoodies/hoodie3.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 7,
+      "title": "Friends Hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/pull6.jpg",
+      "categ": "men's hoodies"
+    },
+    {
+      "id": 8,
+      "title": "Simple Black hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/hoodieg8.jpg",
+      "categ": "women's hoodies"
+    },
+    {
+      "id": 9,
+      "title": "Simple Grey hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/hoodieg9.jpg",
+      "categ": "women's hoodies"
+    },
+    {
+      "id": 10,
+      "title": "Simple Green Hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/hoodieg10.jpg",
+      "categ": "women's hoodies"
+    },
+    {
+      "id": 11,
+      "title": "Simple Blue hoodie",
+      "prix": 65,
+      "image": "assets/hoodies/hoodieg11.jpg",
+      "categ": "women's hoodies"
+    },
+    {
+      "id": 12,
+      "title": "Pink Butterfly hoodie",
+      "prix": 90,
+      "image": "assets/hoodies/pull15.jpg",
+      "categ": "women's hoodies"
+    },
+    {
+      "id": 13,
+      "title": "Pink sweatshirt",
+      "prix": 50,
+      "image": "assets/hoodies/pull14.jpg",
+      "categ": "women's sweatshirts"
+    },
+    {
+      "id": 14,
+      "title": "NewYork black sweatshirt",
+      "prix": 50,
+      "image": "assets/hoodies/pull13.jpg",
+      "categ": "women's sweatshirts"
+    },
+    {
+      "id": 15,
+      "title": "Red Simple sweatshirt",
+      "prix": 50,
+      "image": "assets/hoodies/pullg12.jpg",
+      "categ": "women's sweatshirts"
+    },
+    {
+      "id": 16,
+      "title": "Jean taille haute déchiré",
+      "prix": 120,
+      "image": "assets/jeans/jean1.jpg",
+      "categ": "Women's Jeans"
+    },
+    {
+      "id": 17,
+      "title": "Jean taille haute et large",
+      "prix": 110,
+      "image": "assets/jeans/jean2.jpg",
+      "categ": "Women's Jeans"
+    },
+    {
+      "id": 18,
+      "title": "Jean Noir taille haute large",
+      "prix": 90,
+      "image": "assets/jeans/jean3.jpg",
+      "categ": "Women's Jeans"
+    },
+    {
+      "id": 19,
+      "title": "Jean Ajusté ",
+      "prix": 100,
+      "image": "assets/jeans/jean4.jpg",
+      "categ": "Women's Jeans"
+    },
+    {
+      "id": 20,
+      "title": "Jean bleu clair déchiré",
+      "prix": 140,
+      "image": "assets/jeans/jeanh5.jpg",
+      "categ": "Men's Jeans"
+    },
+    {
+      "id": 21,
+      "title": "Jean bleu clair ",
+      "prix": 125,
+      "image": "assets/jeans/jeanh6.jpg",
+      "categ": "Men's Jeans"
+    },
+    {
+      "id": 22,
+      "title": "Pantalon chanios noir",
+      "prix": 120,
+      "image": "assets/jeans/jeanh7.jpg",
+      "categ": "Men's Jeans"
+    },
+    {
+      "id": 23,
+      "title": "Pantalon gris",
+      "prix": 140,
+      "image": "assets/jeans/jeanh8.jpg",
+      "categ": "Men's Jeans"
+    },
+    {
+      "id": 24,
+      "title": "Veste Bleu ",
+      "prix": 80,
+      "image": "assets/vestes/ves1.jpg",
+      "categ": "Women's vestes"
+    },
+    {
+      "id": 25,
+      "title": "Veste Jean Bleu clair",
+      "prix": 80,
+      "image": "assets/vestes/ves2.jpg",
+      "categ": "Women's vestes"
+    },
+    {
+      "id": 26,
+      "title": "Veste Jean Bleu Clair",
+      "prix": 85,
+      "image": "assets/vestes/ves3.jpg",
+      "categ": "Women's vestes"
+    },
+    {
+      "id": 27,
+      "title": "Veste Jean Noir ",
+      "prix": "100",
+      "image": "assets/vestes/ves4.jpg",
+      "categ": "Women's vestes"
+    },
+    {
+      "id": 28,
+      "title": "Blouson Bombersse Noir",
+      "prix": 160,
+      "image": "assets/vestes/ves5.jpg",
+      "categ": "Men's vestes"
+    },
+    {
+      "id": 29,
+      "title": "hiba",
+      "prix": 220,
+      "image": "assets/vestes/ves6.jpg",
+      "categ": "Women's vestes"
+    },
+    {
+      "id": 31,
+      "title": "Blouson Marron",
+      "prix": 110,
+      "image": "assets/vestes/ves8.jpg",
+      "categ": "Men's vestes"
+    },
+    {
+      "id": 32,
+      "title": "new",
+      "image": "assets/vestes/ves1.jpg",
+      "prix": 100,
+      "categ": ""
+    }
+  ]
+}
